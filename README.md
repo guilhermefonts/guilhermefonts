@@ -1,9 +1,9 @@
 Olá!! eu sou o GuilhermeGomes 👋
-- 🔭 Estou estuando Desenvolvimento Web 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Estou estuando Desenvolvimento Web
+- Estou precisando de ajuda com organização
+ -JAVASCRIP
+ -DOM
+- 📫 How to reach me: 
 
   <div>
    <a href="https://beacons.ai/">
